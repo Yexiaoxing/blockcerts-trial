@@ -9,7 +9,7 @@
   "url": "https://www.issuer.org",
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [{
-    "id": "ecdsa-koblitz-pubkey:0x3E2FcdB2B84a3a2B8B301d80EE995B51260d2FD9",
+    "id": "ecdsa-koblitz-pubkey:0x3e2fcdb2b84a3a2b8b301d80ee995b51260d2fd9",
     "created": "2017-06-29T14:48:03.814936+00:00"
   }],
   "revocationList": "https://raw.githubusercontent.com/Yexiaoxing/blockcerts-trial/master/revocation-list.json",
